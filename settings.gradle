@@ -1,0 +1,2 @@
+rootProject.name='jetpack-mergeadapter'
+include ':app'
